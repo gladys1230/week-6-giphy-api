@@ -1,0 +1,28 @@
+/*-- Kit Chan
+Coding Bootcamp UT-Austin
+Oct 2016
+Assignment week-6-giphy-api*/
+
+body {
+    /* giphy backgroup */
+    background-image: url("../images/logo_buildtext_white_forever.gif") !important;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+    margin: 20px;
+}
+
+#topicButton {
+    margin: 20px;
+}
+
+#addFlower {
+    margin: 20px;
+}
+
+#flowerInput {
+    margin: 20px;
+}
