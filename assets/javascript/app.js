@@ -60,7 +60,7 @@ $(document).ready(function() {
         var flower = $(this).attr("data-name");
 
         //applying the public key, q, and limit
-        var queryUrl = "http://api.giphy.com/v1/gifs/search?q=" + flower + "&api_key=dc6zaTOxFJmzC&limit=10&offset=0";
+        var queryUrl = "https://api.giphy.com/v1/gifs/search?q=" + flower + "&api_key=dc6zaTOxFJmzC&limit=10&offset=0";
 
 
         $.ajax({
